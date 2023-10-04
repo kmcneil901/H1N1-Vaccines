@@ -81,5 +81,5 @@ Note that these visualizations are from the Tableau Dashboard linked above.
 <img width="285" alt="image" src="https://github.com/kmcneil901/H1N1-Vaccines/assets/139075900/00fd7cea-3e8d-4143-8cb8-038ce3566cee">
 <img width="347" alt="image" src="https://github.com/kmcneil901/H1N1-Vaccines/assets/139075900/b0fd3cbb-4846-4d37-bc00-1ff24df991da">
 <img width="419" alt="image" src="https://github.com/kmcneil901/H1N1-Vaccines/assets/139075900/1a335dc9-63bd-4355-9648-c702b71a496a">
-<img width="458" alt="image" src="https://github.com/kmcneil901/H1N1-Vaccines/assets/139075900/322512e4-4e99-4a95-9f22-5d9b2d326f73">
+<img width="449" alt="image" src="https://github.com/kmcneil901/H1N1-Vaccines/assets/139075900/c4a4e9ef-926a-4da3-966d-4217bb39c6b3">
 <img width="323" alt="image" src="https://github.com/kmcneil901/H1N1-Vaccines/assets/139075900/21aa5d4e-3a09-4f7e-8ca1-a61d443f6ff5">
