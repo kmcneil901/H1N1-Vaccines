@@ -11,6 +11,11 @@ Kendall McNeil, October 2023
   - 1 represents no vaccine
   - 0 represents vaccine
 6. PERFORMANCE METRICS: Performance will be evaluated according to the area under the receiver operating characteristic curve (ROC) along with the accuracy, recall, precision, and f1 scores. A higher value indicates stronger performance.
+7. OUTLINE:
+- This GitHub Repository contains the main H1N1 Vaccine ipynb, which includes all the model creation and data exploration.
+- This GitHub Repository also contains a data folder, which includes all the relevant data files.
+- There is also a Tableau Dashboard that displays visualizations of the prediction data: https://public.tableau.com/app/profile/kendall.mcneil/vizzes
+- Lastly, there is a PDF of the final non-technical presentation: 
 
 # 2. Description of the Data:
 *From the DrivenData Website: https://www.drivendata.org/competitions/66/flu-shot-learning/page/211/
@@ -56,5 +61,25 @@ Kendall McNeil, October 2023
 
 # 3. Model Performance
 
+The final model was a logistic regression model with gridsearched parameters. 
+
+1. Accuracy: 83.99%.
+2. Recall: 95.11%.
+3. Precision: 86.04%.
+4. F1-Score: 90.35%.
+5. ROC AUC Score: 68.905%.
+   
+![image](https://github.com/kmcneil901/H1N1-Vaccines/assets/139075900/d15fb01a-027f-4f38-9de7-c77d674df2bc)
+![image](https://github.com/kmcneil901/H1N1-Vaccines/assets/139075900/ae41d4cd-e0d7-438a-8164-0e65ccdb71e2)
+
+MODEL INTERPRETATION: While the final model’s overall accuracy score was 84%, the recall rate was 95%. This tells us that of individuals who will not receive the vaccine, the model will accurately predict 95% of them. This is good news for us because, for this business question, we are mostly concerned with identifying unvaccinated individuals. It won’t hurt to market to an individual who will indeed get the vaccine. We would rather err on the side of identifying a larger volume of unvaccinated individuals. Let’s take a sneak peak at what this machine learning model tells us.
 
 # 4. Model Predictions
+Using the model, we generated predictions. The predictions revealed the following trends in the data.
+Note that these visualizations are from the Tableau Dashboard linked above. 
+
+<img width="285" alt="image" src="https://github.com/kmcneil901/H1N1-Vaccines/assets/139075900/00fd7cea-3e8d-4143-8cb8-038ce3566cee">
+<img width="347" alt="image" src="https://github.com/kmcneil901/H1N1-Vaccines/assets/139075900/b0fd3cbb-4846-4d37-bc00-1ff24df991da">
+<img width="419" alt="image" src="https://github.com/kmcneil901/H1N1-Vaccines/assets/139075900/1a335dc9-63bd-4355-9648-c702b71a496a">
+<img width="458" alt="image" src="https://github.com/kmcneil901/H1N1-Vaccines/assets/139075900/322512e4-4e99-4a95-9f22-5d9b2d326f73">
+<img width="323" alt="image" src="https://github.com/kmcneil901/H1N1-Vaccines/assets/139075900/21aa5d4e-3a09-4f7e-8ca1-a61d443f6ff5">
