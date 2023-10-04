@@ -78,8 +78,34 @@ MODEL INTERPRETATION: While the final model’s overall accuracy score was 84%, 
 Using the model, we generated predictions. The predictions revealed the following trends in the data.
 Note that these visualizations are from the Tableau Dashboard linked above. 
 
+Income:
+
 <img width="285" alt="image" src="https://github.com/kmcneil901/H1N1-Vaccines/assets/139075900/00fd7cea-3e8d-4143-8cb8-038ce3566cee">
+
+Employment Status:
+
 <img width="273" alt="image" src="https://github.com/kmcneil901/H1N1-Vaccines/assets/139075900/f850472d-4e26-41b8-bf99-6ed11165c1d3">
+
+Education: 
+
 <img width="419" alt="image" src="https://github.com/kmcneil901/H1N1-Vaccines/assets/139075900/1a335dc9-63bd-4355-9648-c702b71a496a">
+
+Sex & Age: 
+
 <img width="449" alt="image" src="https://github.com/kmcneil901/H1N1-Vaccines/assets/139075900/c4a4e9ef-926a-4da3-966d-4217bb39c6b3">
+
+Doctor Recommendation: 
+
 <img width="323" alt="image" src="https://github.com/kmcneil901/H1N1-Vaccines/assets/139075900/21aa5d4e-3a09-4f7e-8ca1-a61d443f6ff5">
+
+Race:
+<img width="790" alt="image" src="https://github.com/kmcneil901/H1N1-Vaccines/assets/139075900/9fbdf7cc-7c0e-4dbd-8354-5957c0e6c912">
+
+Rent/Own: 
+<img width="771" alt="image" src="https://github.com/kmcneil901/H1N1-Vaccines/assets/139075900/fb9564ac-6128-4b6c-a8ee-e0ab87e37764">
+
+Presence of a Child:
+<img width="776" alt="image" src="https://github.com/kmcneil901/H1N1-Vaccines/assets/139075900/ee31711c-42e5-4303-ba4f-3ad85a12a617">
+
+
+
