@@ -1,6 +1,13 @@
 # H1N1-Vaccines
 Kendall McNeil, October 2023
-![image](https://github.com/kmcneil901/H1N1-Vaccines/assets/139075900/a3915cb7-ffa5-4cab-af72-502a1ef23ac4)
+
+OUTLINE:
+1. The main [H1N1 Vaccine ipynb](https://github.com/kmcneil901/H1N1-Vaccines/blob/main/H1N1%20Vaccine%20.ipynb) includes all the model creation and data exploration performed in Jupyter Notebook.
+2. The [data folder](https://github.com/kmcneil901/H1N1-Vaccines/tree/main/data) includes all the relevant data files.
+3. The [Tableau Dashboard](https://public.tableau.com/app/profile/kendall.mcneil/viz/H1N1Vaccines-Dashboard/H1N1VaccinesDashboard?publish=yes) displays visualizations of the prediction data.
+4. The Presentation PDF is the PPT. deck of a 5 minute non-technical presentation.
+   
+![image](https://github.com/kmcneil901/H1N1-Vaccines/assets/139075900/72365ee9-7b91-436c-83fc-22c181b1f19f)
 
 # 1. Introduction
 1. DESCRIPTION: Beginning in the spring of 2009, the H1N1 influenza virus, commonly referred to as "swine flu," swept across the globe. In fact, at my own high school, we had the first case of swine flu in the entire state of Texas and were shut down for over a month. It is estimated that in the first year, swine flu was responsible for 363,000 deaths worldwide.
@@ -11,14 +18,9 @@ Kendall McNeil, October 2023
   - 1 represents no vaccine
   - 0 represents vaccine
 6. PERFORMANCE METRICS: Performance will be evaluated according to the area under the receiver operating characteristic curve (ROC) along with the accuracy, recall, precision, and f1 scores. A higher value indicates stronger performance.
-7. OUTLINE:
-- This GitHub Repository contains the main H1N1 Vaccine ipynb, which includes all the model creation and data exploration.
-- This GitHub Repository also contains a data folder, which includes all the relevant data files.
-- There is also a Tableau Dashboard that displays visualizations of the prediction data: https://public.tableau.com/app/profile/kendall.mcneil/vizzes
-- Lastly, there is a PDF of the final non-technical presentation: 
 
 # 2. Description of the Data:
-*From the DrivenData Website: https://www.drivendata.org/competitions/66/flu-shot-learning/page/211/
+*From the [DrivenData Website](https://www.drivendata.org/competitions/66/flu-shot-learning/page/211/)
 *36 Columns Total
 *For all binary variables: 0 = No; 1 = Yes.
 
@@ -99,12 +101,15 @@ Doctor Recommendation:
 <img width="323" alt="image" src="https://github.com/kmcneil901/H1N1-Vaccines/assets/139075900/21aa5d4e-3a09-4f7e-8ca1-a61d443f6ff5">
 
 Race:
+
 <img width="790" alt="image" src="https://github.com/kmcneil901/H1N1-Vaccines/assets/139075900/9fbdf7cc-7c0e-4dbd-8354-5957c0e6c912">
 
 Rent/Own: 
+
 <img width="771" alt="image" src="https://github.com/kmcneil901/H1N1-Vaccines/assets/139075900/fb9564ac-6128-4b6c-a8ee-e0ab87e37764">
 
 Presence of a Child:
+
 <img width="776" alt="image" src="https://github.com/kmcneil901/H1N1-Vaccines/assets/139075900/ee31711c-42e5-4303-ba4f-3ad85a12a617">
 
 
