@@ -5,7 +5,7 @@ OUTLINE:
 1. The main [H1N1 Vaccine ipynb](https://github.com/kmcneil901/H1N1-Vaccines/blob/main/H1N1%20Vaccine%20.ipynb) includes all the model creation and data exploration performed in Jupyter Notebook.
 2. The [data folder](https://github.com/kmcneil901/H1N1-Vaccines/tree/main/data) includes all the relevant data files.
 3. The [Tableau Dashboard](https://public.tableau.com/app/profile/kendall.mcneil/viz/H1N1Vaccines-Dashboard/H1N1VaccinesDashboard?publish=yes) displays visualizations of the prediction data.
-4. The Presentation PDF is the PPT. deck of a 5 minute non-technical presentation.
+4. The [H1N1 Vaccines_Non-Technical Presentation Slides.pdf](https://github.com/kmcneil901/H1N1-Vaccines/files/12835147/H1N1.Vaccines_Non-Technical.Presentation.Slides.pdf) are slides from a 5 minute non-technical presentation. 
    
 ![image](https://github.com/kmcneil901/H1N1-Vaccines/assets/139075900/72365ee9-7b91-436c-83fc-22c181b1f19f)
 
